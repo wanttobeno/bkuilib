@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SkinTest", "SkinTest\SkinTest.vcproj", "{C1D0AB76-DB64-4237-8755-8F51338204A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tinyxml", "tinyxml\tinyxml.vcproj", "{43A57FE0-D773-4F59-AA02-49F6BCF78F7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1D0AB76-DB64-4237-8755-8F51338204A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C1D0AB76-DB64-4237-8755-8F51338204A7}.Debug|Win32.Build.0 = Debug|Win32
+		{C1D0AB76-DB64-4237-8755-8F51338204A7}.Release|Win32.ActiveCfg = Release|Win32
+		{C1D0AB76-DB64-4237-8755-8F51338204A7}.Release|Win32.Build.0 = Release|Win32
+		{43A57FE0-D773-4F59-AA02-49F6BCF78F7A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{43A57FE0-D773-4F59-AA02-49F6BCF78F7A}.Debug|Win32.Build.0 = Debug|Win32
+		{43A57FE0-D773-4F59-AA02-49F6BCF78F7A}.Release|Win32.ActiveCfg = Release|Win32
+		{43A57FE0-D773-4F59-AA02-49F6BCF78F7A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
